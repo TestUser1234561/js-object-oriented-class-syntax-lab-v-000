@@ -24,5 +24,7 @@ sayHi(){
 }
 
 class Ceo extends BoardMember {
+  hireEmployee() {
 
+  }
 }
